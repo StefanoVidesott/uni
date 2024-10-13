@@ -15,3 +15,6 @@
 - (b8) Autovalori e autovettori: definizioni ed esempi, polinomio caratteristico, diagonalizzabilità.
 - (b9) Prodotto scalare: proiezione ortogonale, norma, distanza, basi ortonormali, complemento ortogonale.
 - (b10) Il *teorema spettrale.
+
+## Materiale
+- [1 Vettori geometrici](./materiale/1-Vettori_geometrici.pdf)
