@@ -18,3 +18,11 @@
 
 ## Materiale
 - [1 Vettori geometrici](./materiale/1-Vettori_geometrici.pdf)
+- [2 Numeri, n-uple e matrici](./materiale/2-Numeri_n-uple_e_matrici.pdf)
+- [3 Sistemi lineatri](./materiale/3-Sistemi_lineatri.pdf)
+- [4 Spazi vettoriali](./materiale/4-Spazi_vettoriali.pdf)
+
+## Esercizi
+- [Geometria nello spazio](./esercizi/1-esercizi.pdf)
+- [Matrici](./esercizi/2-esercizi.pdf)
+- [Sistemi lineari](./esercizi/3-esercizi.pdf)
