@@ -26,3 +26,8 @@
 - [Geometria nello spazio](./esercizi/1-esercizi.pdf)
 - [Matrici](./esercizi/2-esercizi.pdf)
 - [Sistemi lineari](./esercizi/3-esercizi.pdf)
+
+## Correzioni
+- [Geometria nello spazio](./esercizi/1-correzione.pdf)
+- [Matrici](./esercizi/2-correzione.pdf)
+- [Sistemi lineari](./esercizi/3-correzione.pdf)
